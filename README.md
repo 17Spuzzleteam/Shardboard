@@ -1,14 +1,14 @@
-## Cardboard
+## M-Board
 
 [![codecov](https://codecov.io/gh/cardinalitypuzzles/cardboard/branch/master/graph/badge.svg)](https://codecov.io/gh/cardinalitypuzzles/cardboard)
 
-![overview](https://user-images.githubusercontent.com/1312469/209477999-b9996cd5-e8c8-4020-8d74-007ebe5558cb.png)
+M-Board is the 17th Shard's fork of [Cardboard](https://github.com/cardinalitypuzzles/cardboard), which helps teams coordinate solving [puzzlehunts](https://en.wikipedia.org/wiki/Puzzle_hunt). It is named after [M-Bot](https://github.com/Moonrise55/Mbot), our beloved companion-slash-partner-in-spacetime. M-Board manages and organizes puzzles, keeps track of team members, integrates with other solving tools, and more.
 
-Cardboard helps teams coordinate solving [puzzle hunts](https://en.wikipedia.org/wiki/Puzzle_hunt). It manages and organizes puzzles, keeps track of team members, integrates with other solving tools, and more.
+Most of this documentation has been maintained from the original Cardboard docs, with changes specific to the 17th Shard's hunt workflow as appropriate.
 
-For help **using Cardboard as a solver**, see [here](user-guide.md).
+For help **using M-Board as a solver**, see [here](user-guide.md).
 
-For help **setting Cardboard up for a hunt**, see [here](new-hunt-setup.md).
+For help **setting M-Board up for a hunt**, see [here](new-hunt-setup.md).
 
 For information about **development**, see the [dev guide](dev-guide.md).
 
