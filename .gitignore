@@ -167,3 +167,6 @@ logfile
 
 # Redis
 *.rdb
+
+# IDEs
+**/.idea
