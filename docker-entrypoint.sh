@@ -7,7 +7,7 @@ yarn run dev &
 python manage.py migrate
 python manage.py collectstatic --no-input
 
-# Password is burrito (in docker-compose.yaml)
-python manage.py createsuperuser --noinput --username admin --email cardinalitypuzzles@gmail.com
+# Password is spensa (in docker-compose.yaml)
+python manage.py createsuperuser --noinput --username admin --email 17thshardpuzzleteam@gmail.com
 
 exec "$@"

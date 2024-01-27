@@ -22,7 +22,7 @@ services:
     environment:
       - DATABASE_URL=postgres://cardboard_user:cardboard_password@db/cardboard
       - REDIS_URL=redis://redis:6379
-      - DJANGO_SUPERUSER_PASSWORD=burrito
+      - DJANGO_SUPERUSER_PASSWORD=spensa
     env_file:
       - ./.env
     entrypoint:
