@@ -189,8 +189,8 @@ DATABASES["default"] = dj_database_url.config(conn_max_age=600, ssl_require=Fals
 DATABASES["default"]["TEST"] = {"NAME": "test_cardboard"}
 
 # App title
-APP_TITLE = os.environ.get("APP_TITLE", "M-Board")
-APP_SHORT_TITLE = os.environ.get("APP_SHORT_TITLE", "M-Board")
+APP_TITLE = os.environ.get("APP_TITLE", "Shardboard")
+APP_SHORT_TITLE = os.environ.get("APP_SHORT_TITLE", "Shardboard")
 
 # Contact info
 CONTACT_AUTHOR_NAME = os.environ.get("CONTACT_AUTHOR_NAME", "17th Shard")

@@ -23,7 +23,7 @@ To run Cardboard manually, you will need:
 To check out the code, you first need to [install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). Then you can checkout the code using:
 
 ```
-git clone git@github.com:azwong42/M-Board.git
+git clone git@github.com:azwong42/Shardboard.git
 ```
 
 ### Set up an `.env` file

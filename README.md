@@ -1,14 +1,14 @@
-## M-Board
+## Shardboard
 
 [![codecov](https://codecov.io/gh/cardinalitypuzzles/cardboard/branch/master/graph/badge.svg)](https://codecov.io/gh/cardinalitypuzzles/cardboard)
 
-M-Board is the 17th Shard's fork of [Cardboard](https://github.com/cardinalitypuzzles/cardboard), which helps teams coordinate solving [puzzlehunts](https://en.wikipedia.org/wiki/Puzzle_hunt). It is named after [M-Bot](https://github.com/Moonrise55/Mbot), our beloved companion-slash-partner-in-spacetime. M-Board manages and organizes puzzles, keeps track of team members, integrates with other solving tools, and more.
+Shardboard is the 17th Shard's fork of [Cardboard](https://github.com/cardinalitypuzzles/cardboard), which helps teams coordinate solving [puzzlehunts](https://en.wikipedia.org/wiki/Puzzle_hunt). It is named after [M-Bot](https://github.com/Moonrise55/Mbot), our beloved companion-slash-partner-in-spacetime. Shardboard manages and organizes puzzles, keeps track of team members, integrates with other solving tools, and more.
 
 Most of this documentation has been maintained from the original Cardboard docs, with changes specific to the 17th Shard's hunt workflow as appropriate.
 
-For help **using M-Board as a solver**, see [here](user-guide.md).
+For help **using Shardboard as a solver**, see [here](user-guide.md).
 
-For help **setting M-Board up for a hunt**, see [here](new-hunt-setup.md).
+For help **setting Shardboard up for a hunt**, see [here](new-hunt-setup.md).
 
 For information about **development**, see the [dev guide](dev-guide.md).
 
